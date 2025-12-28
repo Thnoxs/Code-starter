@@ -99,7 +99,7 @@ execSync("npm install --silent", { cwd, stdio: "ignore" });
 spinner.succeed(chalk.green("Dependencies installed ✅"));
 
 // 7️⃣ Link Outopen
-const url = "https://www.youtube.com/watch?v=bupetqS1SMU";
+const url = "https://github.com/Thnoxs";
 url;
 
 // 6️⃣ Final clean message
@@ -107,8 +107,8 @@ console.log(
   chalk.blue(`
 ✨ Thnoxs HTML Template Ready!
 📁 All template files are in /src folder
-🚀 Live server running at: ${url}
 🌐 Browser opened automatically
+🔭 Explore the project on GitHub: ${url}
 
 👉 Run 'npm start' to restart the server
 `)
