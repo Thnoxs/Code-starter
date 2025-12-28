@@ -28,4 +28,3 @@ No more creating files manually — just one command, and you’re ready to code
 - Ready-to-use **`src/` folder** structure  
 - Optional: open browser automatically via `npm start`  
 
----
