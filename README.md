@@ -29,10 +29,3 @@ No more creating files manually — just one command, and you’re ready to code
 - Optional: open browser automatically via `npm start`  
 
 ---
-
-## 🚀 Installation & Usage
-
-You don’t need to clone anything! Just run:
-
-```bash
-npx thnoxs-html
