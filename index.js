@@ -73,7 +73,7 @@ if (!fs.existsSync(packageJsonPath)) {
   const packageJson = {
     name: "thnoxs-template",
     version: "1.0.0",
-    private: true,
+    private: false,
     scripts: { start: "live-server src --quiet --port=8080" },
     devDependencies: { "live-server": "^1.2.2" },
   };
