@@ -1,6 +1,6 @@
 # Thnoxs HTML Template CLI 🚀
 
-[![npm version](https://img.shields.io/npm/v/thnoxs-html.svg)](https://www.npmjs.com/package/thnoxs-html)
+[![npm version](https://img.shields.io/npm/v/thnoxs-html.svg)](https://www.npmjs.com/package/@thnoxs/thnoxs)
 [![License](https://img.shields.io/badge/license-ISC-blue.svg)](LICENSE)
 
 ---
