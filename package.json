@@ -2,9 +2,6 @@
   "name": "thnoxs",
   "version": "1.0.0",
   "description": "A command-line tool for generating HTML, CSS, and JavaScript files from templates.",
-  "bin": {
-    "thnoxs": "index.js"
-  },
   "keywords": [
     "html generator",
     "css generator",
@@ -12,11 +9,20 @@
     "template generator",
     "cli tool"
   ],
-  "author": "Ankit Jaiswal",
+  "homepage": "https://github.com/Thnoxs/Thnoxs#readme",
+  "bugs": {
+    "url": "https://github.com/Thnoxs/Thnoxs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thnoxs/Thnoxs.git"
+  },
   "license": "ISC",
+  "author": "Ankit Jaiswal",
   "type": "module",
-  "devDependencies": {
-    "live-server": "^1.2.2"
+  "main": "index.js",
+  "bin": {
+    "thnoxs": "index.js"
   },
   "scripts": {
     "start": "live-server src --quiet --port=8080 --open"
@@ -24,5 +30,8 @@
   "dependencies": {
     "chalk": "^5.6.2",
     "ora": "^9.0.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
   }
 }
